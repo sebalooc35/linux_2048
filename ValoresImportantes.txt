@@ -1,0 +1,8 @@
+Tres mejores puntuaciones:
+2400
+300
+200
+
+Continuar partida:
+[[0, 2, 0, 2], [4, 4, 0, 0], [8, 16, 0, 8], [16, 128, 64, 16]]
+1188
